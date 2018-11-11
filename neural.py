@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 
 
-def sync():
+#def sync():
 	
 
-def main():
+#def main():
 
 
 if "__name__" == "__main__":
